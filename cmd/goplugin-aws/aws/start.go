@@ -1,7 +1,7 @@
 package aws
 
 import (
-	"github.com/lyraproj/lyra/cmd/goplugin-aws/resource"
+	"github.com/lyraproj/aws-example/cmd/goplugin-aws/resource"
 	"github.com/lyraproj/pcore/pcore"
 	"github.com/lyraproj/pcore/px"
 	"github.com/lyraproj/servicesdk/grpc"

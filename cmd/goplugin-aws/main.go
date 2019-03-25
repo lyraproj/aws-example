@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lyraproj/lyra/cmd/goplugin-aws/aws"
+	"github.com/lyraproj/aws-example/cmd/goplugin-aws/aws"
 )
 
 func main() {
